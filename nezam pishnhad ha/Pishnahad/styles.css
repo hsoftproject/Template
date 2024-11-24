@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+header {
+  background-color: #ffffff;
+}
+
+.post img {
+  width: 100%;
+  height: auto;
+}
+
+.navbar {
+  border-top: 1px solid #ddd;
+}
+
+.navbar i {
+  font-size: 1.5rem;
+  color: #000;
+}
+
+.post .rounded-circle {
+  height: 40px;
+  width: 40px;
+}
+.dropup .btn {
+  border: none;
+  font-size: 1.5rem;
+  color: #000;
+}
+
+.dropup .dropdown-menu {
+  transform: translateY(-10px) !important; /* برای فاصله از دکمه */
+  border-radius: 10px;
+}
+
+.dropup .dropdown-menu a {
+  font-size: 1rem;
+  color: #555;
+}
+
+.dropup .dropdown-menu a:hover {
+  background-color: #f0f0f0;
+  color: #000;
+}
+.navbar .btn {
+  font-size: 1.5rem;
+  border: none;
+}
+
+.tab-pane {
+  padding: 20px;
+  text-align: center;
+}
+
+.dropdown-menu {
+  border-radius: 10px;
+  text-align: right;
+}
+
+.dropdown-item:hover {
+  background-color: #f8f9fa;
+}
